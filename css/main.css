@@ -1,0 +1,27 @@
+table,
+th,
+td {
+    margin: auto;
+    width: 25%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-style: bold;
+}
+
+th,
+td {
+    padding: 12px;
+}
+
+h1 {
+    color: #474e5d;
+}
+h2{
+    background-color: cadetblue;
+    color: whitesmoke;
+    text-align: center;
+}
+.profile-section{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
